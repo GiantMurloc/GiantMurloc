@@ -1,6 +1,4 @@
 ### Hello There 👋 Take a Look to [my website](https://kyukishi.github.io/) for more Information
-![Ben Westover / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)](https://upload.wikimedia.org/wikipedia/commons/5/56/Hellothere.gif)
-
 <!--
 **GiantMurloc/GiantMurloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
