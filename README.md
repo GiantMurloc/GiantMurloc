@@ -1,4 +1,4 @@
-### Hello There 👋 Take a Look to [my website](https://kyukishi.github.io/) for more Information
+### Hello There 👋 Take a Look to [my website](https://kyukishi.github.io/) for more Information -- its actually private because I started to redesign it, sorry
 <!--
 **GiantMurloc/GiantMurloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
